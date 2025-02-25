@@ -15,7 +15,7 @@ class _MyWidgetState extends State<MyWidget> {
         title: const Text('Bye, World!'),
       ),
       body: const Center(
-        child: Text('Hello, World!'),
+        child: Text('Hello'),
       ),
     );
   }
